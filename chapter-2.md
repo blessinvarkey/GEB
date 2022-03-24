@@ -1,8 +1,8 @@
-# Godel Escher Bach
+# Gödel, Escher, Bach: an Eternal Golden Braid
 
 'Do words and thoughts follow formal rules, or do they not?'
 
-![](https://uploads1.wikiart.org/images/m-c-escher/liberation.jpg!Large.jpg)
+<img src="https://uploads1.wikiart.org/images/m-c-escher/liberation.jpg!Large.jpg" alt="build image" width="200"/>
 
 ## pq-system
 - The formal system aka 'pq-system' of this chapter 
@@ -26,5 +26,6 @@ Theorms
 
 A Penrose tiling is an example of an aperiodic tiling. Here, a tiling is a covering of the plane by non-overlapping polygons or other shapes, and aperiodic means that shifting any tiling with these shapes by any finite distance, without rotation, cannot produce the same tiling. However, despite their lack of translational symmetry, Penrose tilings may have both reflection symmetry and fivefold rotational symmetry. Penrose tilings are named after mathematician and physicist Roger Penrose, who investigated them in the 1970s.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Penrose_Tiling_%28Rhombi%29.svg/1920px-Penrose_Tiling_%28Rhombi%29.svg.png)
 Figure: A Penrose tiling with rhombi exhibiting fivefold symmetry
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Penrose_Tiling_%28Rhombi%29.svg/1920px-Penrose_Tiling_%28Rhombi%29.svg.png" alt="build image" width="300"/>

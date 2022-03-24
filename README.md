@@ -1,4 +1,4 @@
-# Godel Escher Bach
+# Gödel, Escher, Bach: an Eternal Golden Braid
 
 ## Terminologies
 
