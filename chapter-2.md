@@ -1,6 +1,6 @@
 # Gödel, Escher, Bach: an Eternal Golden Braid
 
-'Do words and thoughts follow formal rules, or do they not?'
+'Do words and thoughts follow formal rules, or do they not?' [1]
 
 <img src="https://uploads1.wikiart.org/images/m-c-escher/liberation.jpg!Large.jpg" alt="build image" width="200"/>
 
@@ -13,12 +13,6 @@
 - This sentence is false
 - We map words through symbols
 
-Using a pentagon to try to use to tile a floor can 
-
-- 2 + 3 = 5
-- Man and Woman become one 
-
-
 
 From the 
 In the first we have MIU with the first axiom. 
@@ -29,3 +23,7 @@ A Penrose tiling is an example of an aperiodic tiling. Here, a tiling is a cover
 Figure: A Penrose tiling with rhombi exhibiting fivefold symmetry
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Penrose_Tiling_%28Rhombi%29.svg/1920px-Penrose_Tiling_%28Rhombi%29.svg.png" alt="build image" width="300"/>
+
+
+## References
+1. GEB: Godel, Escher, Bach: an Eternal Golden Braid| Douglas Hofstadter
