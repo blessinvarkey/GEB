@@ -23,3 +23,4 @@ Problem 1: If MI (is true), then MUIU (is true) [[1](https://www.youtube.com/wat
 |MUIU|Postulate 3|
 
 
+Fun [MIU System Applet](https://tn1ck.github.io/MIU/) by Tom Nick. 
