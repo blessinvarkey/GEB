@@ -7,8 +7,8 @@
 ## pq-system
 - The formal system aka 'pq-system' of this chapter 
 - The pq-system contains three symbols: p, q, - (hyphen) 
-- E.g. --p-q--- is an axiom
-- If --p--q turns out to be a theorm, then so will --p----q--
+- Definition: --p-q--- is an axiom
+- Rule: If --p--q turns out to be a theorm, then so will --p----q--
 - One string can contain multiple meanings
 - This sentence is false
 - We map words through symbols
