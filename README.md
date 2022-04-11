@@ -13,6 +13,18 @@
 
 ## Terminologies
 
+
+__Axiom__    
+__Theorem__    
+__Rules__    
+__Rules of Production__   
+__Decision Procedure__
+
+
+__Formal System__   
+__Isomorphism__
+
+
 __Recursive Mathematical Function__
 - Factorials: n! = n*(n-1!) 
 
